@@ -1,0 +1,56 @@
+[
+  {
+    "test_case": 1,
+    "title": "Meta-Learning for AI Systems",
+    "difficulty": "hard",
+    "advanced_reward": 0.5619585822667112,
+    "paper_quality": 0.747939311315937,
+    "sections_completed": 5.4,
+    "generation_time": 169.38491988182068,
+    "reward_breakdown": {
+      "completion": 1.0,
+      "quality_improvement": 0.0,
+      "coherence": 0.18639348891461113,
+      "citation_quality": 0.4933333333333334,
+      "efficiency": 1.0,
+      "coordination": 0.9999955892951956,
+      "novelty": 0.2
+    }
+  },
+  {
+    "test_case": 2,
+    "title": "Survey of Deep Learning Methods",
+    "difficulty": "medium",
+    "advanced_reward": 0.563838025633423,
+    "paper_quality": 0.7641928781133963,
+    "sections_completed": 5.4,
+    "generation_time": 138.0430088043213,
+    "reward_breakdown": {
+      "completion": 1.0,
+      "quality_improvement": 0.032507133594918525,
+      "coherence": 0.20192225240087291,
+      "citation_quality": 0.4933333333333334,
+      "efficiency": 1.0,
+      "coordination": 0.9304826105430831,
+      "novelty": 0.2
+    }
+  },
+  {
+    "test_case": 3,
+    "title": "Introduction to Neural Networks",
+    "difficulty": "easy",
+    "advanced_reward": 0.5644716307110993,
+    "paper_quality": 0.7704215951140088,
+    "sections_completed": 5.4,
+    "generation_time": 139.4425117969513,
+    "reward_breakdown": {
+      "completion": 1.0,
+      "quality_improvement": 0.012457434001224899,
+      "coherence": 0.18653675637947106,
+      "citation_quality": 0.4933333333333334,
+      "efficiency": 1.0,
+      "coordination": 0.999996304539337,
+      "novelty": 0.2
+    }
+  }
+]
